@@ -1,6 +1,6 @@
 ## Angular simple app
 
-A very simple angular app, which demonstrate how to organize files and directories for people getting started angular.
+A very simple angular app, which demonstrates how to organize files and directories for people getting started with angular.
 
 ### Setup
 
