@@ -43,7 +43,6 @@ module.exports = function(grunt) {
           }
         },
 
-        // Run all watch tasks AT THE SAME TIME!!!
         concurrent: {
             options: {
                 logConcurrentOutput: true
