@@ -1,26 +1,14 @@
- knowlegepics.com
+## Angular simple app
 
-## Frameworks and Tools
+A very simple angular app, which demonstrate how to organize files and directories for people getting started angular.
 
-  - Twitter Bootstrap 2.3.3 (http://getbootstrap.com/2.3.2/)
-  - Gruntjs (http://gruntjs.com/)
-  - Puphpet (https://puphpet.com/)
-  - Vagrant (https://www.vagrantup.com/)
-  - AngularJS v1.2.25 (http://angularjs.org)
-  
+### Setup
 
-### initial setup
+    npm install
 
-update
+    gulp
 
-global/settings.php  
 
-    const HOST = '/'
+### important
 
-and 
-
-/script/app.js
-
-    var host = location.host
-
-to reflect your local setting.
+The aim of this app is only for learning purpose. Please use https://github.com/yeoman/generator-angular for a proper boilerplate, which includes tests and other goodies.
